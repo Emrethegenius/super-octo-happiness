@@ -368,49 +368,50 @@ const questionPool = [
   
     // Group 7: Questions 31 - 35
     // Question 31:
-    {
-  "question": "At this location in 1794, the man who led the most intense period of political purges was arrested and executed, marking the fall of his influence. Can you pinpoint where it happened?",  
-  "answer": [48.865633, 2.321236],  
-  "name": "Place de la Révolution, Paris, France",  
-  "image": "images/robespierre_execution.jpg",  
-  "info": "On July 28, 1794, Maximilien Robespierre, known for his role in orchestrating mass executions, was arrested and executed by guillotine at Place de la Révolution in Paris, ending his reign of power."  
+  // Question 26:
+  {
+  "question": "This immense temple complex, originally dedicated to the Hindu god Vishnu, later became a center for Buddhist worship. Can you locate it?",
+  "answer": [13.4125, 103.866667],  
+  "name": "Angkor Wat",  
+  "image": "images/angkor_wat.jpg",  
+  "info": "Angkor Wat, built in the early 12th century by King Suryavarman II, is one of the largest religious monuments in the world and a symbol of Cambodia’s cultural heritage."
 },
-      
-      // Question 32:
-      {
-  "question": "After drifting for an astonishing 438 days, the longest-known castaway finally made landfall at this remote location in 2014. Can you pinpoint where his journey ended?",  
-  "answer": [4.620641464060111, 168.77004985661048],  
-  "name": "Tile Islet, Ebon Atoll, Marshall Islands",  
-  "image": "images/castaway_landfall.jpg",  
-  "info": "José Salvador Alvarenga, a fisherman from El Salvador, was lost at sea for 438 days before making landfall on Tile Islet in the Marshall Islands in 2014. He survived on fish, birds, and rainwater after drifting over 10,000 km across the Pacific Ocean."  
-},
-      
-      // Question 33:
-      {
-  "question": "At this remote settlement in 1978, a leader’s final orders led to a mass suicide, claiming over 900 lives in one of history’s deadliest cult tragedies. Can you locate this site?",  
-  "answer": [7.689444, -59.95],  
-  "name": "Jonestown, Guyana",  
-  "image": "images/jonestown_massacre.jpg",  
-  "info": "On November 18, 1978, over 900 members of the Peoples Temple, led by Jim Jones, died in a mass murder-suicide at Jonestown, Guyana. Many were forced to drink poisoned Flavor Aid in a tragedy that shocked the world."  
-},
-      
-      // Question 34:
-      {
-  "question": "At this lakeside location in 1871, a journalist finally found a long-lost explorer and greeted him with the now-famous words: 'Dr. Livingstone, I presume?' Can you pinpoint this historic meeting place?",  
-  "answer": [-4.920021122456501, 29.674622235711507],  
-  "name": "Livingstone Memorial, Ujiji, Tanzania",  
-  "image": "images/livingstone_memorial.jpg",  
-  "info": "On November 10, 1871, Henry Morton Stanley met Dr. David Livingstone near the shores of Lake Tanganyika in Ujiji. The site, now marked by the Livingstone Memorial, commemorates one of history’s most famous encounters."  
-},
-      
-      // Question 35:
-      {
-  "question": "At this precise location, an ancient dream of cutting through land to connect two seas was finally realized in 1893. Can you pinpoint where this engineering marvel is located?",
-  "answer": [37.934722, 22.983889],
-  "name": "Corinth Canal, Greece",
-  "image": "images/corinth_canal.jpg",
-  "info": "The Corinth Canal, completed in 1893, cuts through the narrow Isthmus of Corinth, linking the Aegean and Ionian Seas. Though envisioned by ancient rulers, it wasn’t finished until modern engineering made it possible."
-}
+  
+  // Question 27:
+  {
+    "question": "A luxury cruise liner, which sank in 2012, was the largest ship ever raised from the ocean floor. Can you find its final resting place before salvage?",
+    "answer": [42.365278, 10.921667],
+    "name": "Isola del Giglio, Italy",
+    "image": "images/costa_concordia.jpg",
+    "info": "The *Costa Concordia* ran aground near an Italian island in 2012, leading to 32 deaths. It was later refloated and dismantled in the largest-ever salvage operation."
+  },
+  
+  // Question 28:
+  {
+    "question": "Known as the 'Gateway to the Sun,' this ancient structure marks the entrance to a sacred Inca city. Where is it?",
+    "answer": [13.169759, -72.533949],
+    "name": "Inti Punku, Peru",
+    "image": "images/inti_punku.jpg",
+    "info": "Inti Punku, or the 'Sun Gate,' is located near Machu Picchu and was the entrance to the ancient Incan city, offering views of the stunning sacred valley."
+  },
+  
+  // Question 29:
+  {
+  "question": "Towering above the landscape, this colossal monument is the tallest statue on Earth. Can you locate it?",
+  "answer": [21.8380, 73.7191],  
+  "name": "Statue of Unity",  
+  "image": "images/statue_of_unity.jpg",  
+  "info": "Standing at 182 meters, the Statue of Unity in India honors Sardar Vallabhbhai Patel, a key figure in the country's independence and unification."  
+}, 
+  
+  // Question 30:
+  {
+    "question": "At this precise location, an ancient dream of cutting through land to connect two seas was finally realized in 1893. Can you pinpoint where this engineering marvel is located?",
+    "answer": [37.934722, 22.983889],
+    "name": "Corinth Canal, Greece",
+    "image": "images/corinth_canal.jpg",
+    "info": "The Corinth Canal, completed in 1893, cuts through the narrow Isthmus of Corinth, linking the Aegean and Ionian Seas. Though envisioned by ancient rulers, it wasn’t finished until modern engineering made it possible."
+  }
   ];
   
   const imageCreditsPool = [
