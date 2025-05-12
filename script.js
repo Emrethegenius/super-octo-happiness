@@ -259,7 +259,7 @@ const questionPool = [
     // Question 19:
     {
         "question": "Known as the 'Gateway to the Sun,' this ancient structure marks the entrance to a sacred Inca city. Where is it?",
-        "answer": [13.169759, -72.533949],
+        "answer": [-13.2555622, -72.3129203],
         "name": "Inti Punku, Peru",
         "image": "images/inti_punku.jpg",
         "info": "Inti Punku, or the 'Sun Gate,' is located near Machu Picchu and was the entrance to the ancient Incan city, offering views of the stunning sacred valley."
